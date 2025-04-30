@@ -3,7 +3,9 @@ using namespace std;
 
 int main()
 {
-    int n = 153;
+    int n;
+    cout << "Enter number: ";
+    cin >> n;
     int ans = 0;
     int pow = 1;
 
@@ -15,6 +17,6 @@ int main()
         n /= 2;
     }
 
-    cout << ans; // Will print binary representation of 153
+    cout << ans;
     return 0;
 }
