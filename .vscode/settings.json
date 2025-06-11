@@ -60,6 +60,7 @@
     ".env*": "dotenv",
     "stdio.h": "c",
     "ostream": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "vector": "cpp"
   }
 }
