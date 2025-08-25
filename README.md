@@ -18,9 +18,5 @@ Welcome to my **DSA Problem Solving** repository. Here, I have documented and so
 
 ## Future Work
 - Add more advanced DSA problems.  
-- Include detailed explanations and time/space complexity analysis for each problem.  
-- Explore additional platforms like Codeforces, HackerRank, and AtCoder.
-
----
 
 This repository is a personal journey in DSA practice and problem-solving. Any suggestions for improvement or feedback are welcome!
