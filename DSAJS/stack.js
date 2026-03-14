@@ -11,10 +11,10 @@ const pop = () => {
         arr.length = currentSize;
     }
 }
-push(20);
-push(220);
-push(26);
-push(38);
-pop();
-console.log(arr);
+// string push in array
+str = "Anchal";
+str = str.split("");
+push(str);
+
+console.log(str);
 
