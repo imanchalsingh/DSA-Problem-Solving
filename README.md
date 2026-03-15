@@ -1,22 +1,40 @@
 # DSA Problem Solving Repository
 
-Welcome to my **DSA Problem Solving** repository. Here, I have documented and solved a variety of problems from different platforms to strengthen my problem-solving and programming skills.
+Welcome to my **Data Structures & Algorithms (DSA) Problem Solving** repository.  
+This repository contains solutions to a variety of DSA problems that I practice regularly to improve my **problem-solving ability, algorithmic thinking, and coding skills**.
 
 ## Platforms Covered
-- **LeetCode**  
+
+Problems in this repository are practiced from multiple platforms:
+
+- **LeetCode**
 - **GeeksforGeeks (GFG)**
-- **Project Euler (Algorithms) 'Basic'**
+- **Other DSA Practice Platforms**
 
 ## Languages Used
-- **JavaScript:** Some problems were initially solved in JavaScript.  
-- **C++:** Certain problems were later converted to C++ to practice more fundamental implementations without relying on JavaScript’s built-in functions. 
 
-## Notes
-- The main goal of this repository is to reinforce core DSA concepts and improve algorithmic thinking.  
-- Problems are organized by topic and platform for easier reference.  
-- Solutions include both initial JavaScript implementations and optimized C++ versions where applicable.
+- **JavaScript**  
+  Some problems were initially implemented in JavaScript.
 
-## Future Work
-- Add more advanced DSA problems.  
+- **C++**  
+  Several solutions were later reimplemented in C++ to strengthen understanding of lower-level logic and practice algorithm implementation without relying heavily on built-in functions.
 
-This repository is a personal journey in DSA practice and problem-solving. Any suggestions for improvement or feedback are welcome!
+## Repository Goals
+
+- Strengthen core **Data Structures and Algorithms concepts**
+- Improve **logical thinking and coding efficiency**
+- Maintain a structured collection of solved problems for future reference
+
+## Structure
+
+Problems are organized by **topic and platform** to make navigation easier and help track progress across different areas of DSA.
+
+## Future Improvements
+
+- Add more **advanced DSA problems**
+- Include **optimized approaches and explanations**
+- Expand coverage to more topics and problem patterns
+
+---
+
+This repository represents my continuous journey of learning and improving in **Data Structures and Algorithms**.
